@@ -20,6 +20,6 @@ module.exports = {
       config.base = '/Ignite-lab-design-system/'
     }
 
-    return
+    return config
   }
 }
